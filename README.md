@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishita Panchal</h1>
 <h3 align="center">Software Sorcerer Conjuring Code Magic!</h3>
-
+<img align = "right" alt = "coding"width = "400" src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishakp3005" alt="nishakp3005" /></a> </p> -->
 
 - 🔭 I’m currently working on **RouteRover**
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nishakp3005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1ezbz75tgubkTIztaZYMf0ypB7xvHi7TN](https://drive.google.com/drive/u/1/folders/1ezbz75tgubkTIztaZYMf0ypB7xvHi7TN)
+- 📄 Know about my experiences [here](https://drive.google.com/drive/u/1/folders/1ezbz75tgubkTIztaZYMf0ypB7xvHi7TN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
