@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nishakp3005@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/drive/u/1/folders/1ezbz75tgubkTIztaZYMf0ypB7xvHi7TN](https://drive.google.com/file/d/1YjZ0Iu2EvbCWGAvhIkwnVUfviaustQsE/view?usp=sharing))
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1YjZ0Iu2EvbCWGAvhIkwnVUfviaustQsE/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
