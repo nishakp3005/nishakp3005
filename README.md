@@ -3,6 +3,8 @@
 <img align = "right" alt = "coding"width = "400" src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishakp3005" alt="nishakp3005" /></a> </p> -->
 
+- I'm currently working on Academease 
+
 - 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **nishakp3005@gmail.com**
