@@ -3,26 +3,30 @@
 <h1 align="center">Hey all! 👋, I'm Nishita Panchal</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Magic+Coder!;I'm+a+learning+ML...;I+like+to+play+chess)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Magic+Coder!;I'm+currently+learning+ML...;I+like+to+play+chess)](https://git.io/typing-svg)
+
 
 <p><img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"></p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap : 30px">
+<div style="display: flex; justify-content: start; align-items: start; ">
 
 ```python
 class NKP():
     
   def __init__(self):
-    self.name = "Nishita Panchal";
-    self.username = "nishakp3005";
-    self.location = "Mumbai, India";
+    self.name = "Nishita Panchal"
+    self.location = "Mumbai, India"
   
+  def expert(self):
+    self.expert = "MERN"
+
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
     me = NKP()
 ```
+
 </div>
 
 ### 🛠 &nbsp;Tech Stack
@@ -67,7 +71,7 @@ if __name__ == '__main__':
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/nishita-panchal/"><img src="https://img.shields.io/badge/-Nishita%20Panchal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nishap3005@gmail.com"><img src="https://img.shields.io/badge/-Nishita%20Panchal-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
