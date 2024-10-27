@@ -58,11 +58,17 @@ if __name__ == '__main__':
 ![GitHub](https://img.shields.io/badge/github-0078d7.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 <p align="center">
+  <a href="https://leetcode.com/Nishakp_3005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="70" width="70" /></a>
   <a href="https://leetcode.com/Nishakp_3005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="70" width="70" /></a>
   <a href="https://leetcode.com/Nishakp_3005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="70" width="70" /></a>
+        <a href="https://leetcode.com/Nishakp_3005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="jyot" height="70" width="70" /></a>
+    <a href="https://leetcode.com/Nishakp_3005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" alt="jyot" height="70" width="70" /></a>
   <a href="https://leetcode.com/Nishakp_3005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" alt="jyot" height="70" width="70" /></a>
   <a href="https://leetcode.com/Nishakp_3005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" alt="jyot" height="70" width="70" /></a>
 </p>
+
+[![An image of @nishakp3005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishakp3005)](https://holopin.io/@nishakp3005)
+
 
 <div style="display: flex; justify-content: center; align-items: center; gap : 20px">
     <img src="https://leetcard.jacoblin.cool/Nishakp_3005?theme=dark&font=Nunito&ext=heatmap" height="200" width="300" alt="LeetCard" />
